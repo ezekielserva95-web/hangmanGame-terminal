@@ -8,7 +8,7 @@ A python terminal hangman game
 - Example hidden word: Apple (5 letters) therefore "Apple" is equivalent to 5 blanks "_ _ _ _ _"
 
 # Customization
-- You can remove all the words in hangmanwords.py and replace it to whatever words you want, there's no limit to it.
+- You can remove all the words in hangman_words.py and replace it to whatever words you want, there's no limit to it.
 
 # Gameplay Screenshot
 ![Alt text](screenshot/gameplay.jpg)
